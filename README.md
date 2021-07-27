@@ -1,0 +1,1 @@
+Hi everyone! I'm a physicist and an aspiring software engineer. I love to play video games, watch movies and travel. I enjoy doing or working on challenging and enriching projects as well. I'm always open to new ideas and better ways of accomplishing tasks.
