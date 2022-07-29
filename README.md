@@ -1,4 +1,4 @@
-<img src="./githubBanner.gif" alt="banner">
+<img src="./banner.gif" alt="banner">
 
 # Hey there! I'm Christian Kiyong
 
