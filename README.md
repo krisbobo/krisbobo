@@ -1,4 +1,4 @@
-# Hey there! I'm Kiyong Bohbo
+# Hey there! I'm Christian Kiyong
 
 Remote Full-Stack Developer Exploring new Opportunities
 
@@ -11,7 +11,8 @@ Remote Full-Stack Developer Exploring new Opportunities
 ```javascript
 const krisbobo = {
   exploring: 'New Jobs and Opportunities',
-  hobbies: ['Learning New Stuff','Reading','Coding'],
+  hobbies: ['Learning New Stuff','Reading','Coding', 'tennis player', 'football player'],
+  goals2022: 'Become a proficient Full-Stack developer',
   pronouns: 'him'||'he',
   programmingLangs: [
   'Ruby on Rails', 
@@ -21,7 +22,7 @@ const krisbobo = {
   'Python', 
   'JavaScript'
   ],
-  Facts: 'I enjoy seeing my thoughts come to life through programming',
+  Facts: 'I love football and I can play too.',
   welcomeMessage: 'Hello! Welcome to my Github Space. Feel Free to explore my Projects.'
 }
 console.log(krisbobo.welcomeMessage)
