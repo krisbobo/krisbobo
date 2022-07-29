@@ -1,4 +1,4 @@
-[<img src="https://www.canva.com/design/DAFH1SM2H-g/view" alt="banner">]
+[<img src="./githubBanner.gif" alt="banner">]
 
 # Hey there! I'm Christian Kiyong
 
