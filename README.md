@@ -22,7 +22,8 @@ const krisbobo = {
   'Bootstrap', 
   'Ruby', 
   'Python', 
-  'JavaScript'
+  'JavaScript',
+  'C'
   ],
   Facts: 'I love football and I can play too.',
   welcomeMessage: 'Hello! Welcome to my Github Space. Feel Free to explore my Projects.'
