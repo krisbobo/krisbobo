@@ -16,14 +16,16 @@ const krisbobo = {
   hobbies: ['Learning New Stuff','Reading','Coding', 'tennis player', 'football player'],
   goals2023: 'Land a fully remote Full-Stack developer role',
   pronouns: 'him'||'he',
-  programmingLangs: [
+  techStacks: [
   'Ruby on Rails', 
   'React JS', 
   'Bootstrap', 
   'Ruby', 
   'Python', 
   'JavaScript',
-  'C'
+  'C',
+  'Firebase',
+  'Nextjs'
   ],
   Facts: 'I love football and I can play too.',
   welcomeMessage: 'Hello! Welcome to my Github Space. Feel Free to explore my Projects.'
