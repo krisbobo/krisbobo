@@ -1,5 +1,3 @@
-<img src="./banner.gif" alt="banner">
-
 # Hey there! I'm Christian Kiyong
 
 Remote Full-Stack Developer Exploring new Opportunities
