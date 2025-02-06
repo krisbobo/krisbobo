@@ -12,7 +12,7 @@ Remote Full-Stack Developer Exploring new Opportunities
 const krisbobo = {
   exploring: 'New Jobs and Opportunities',
   hobbies: ['Learning New Stuff','Reading','Coding', 'tennis player', 'football player'],
-  goals2023: 'Land a fully remote Full-Stack developer role',
+  goals2025: 'Land a fully remote Full-Stack developer role',
   pronouns: 'him'||'he',
   techStacks: [
   'Ruby on Rails', 
